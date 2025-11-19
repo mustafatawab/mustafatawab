@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Mustafa Tawab
 **Modern Full Stack Developer**  
 
-🚀 Now building cutting-edge Agentic AI applications, designing API-first AI microservices, and working with event-driven architectures. Passionate about crafting scalable and efficient AI-powered solutions.
+
 
 🤖 **Expertise in:**  Nextjs, Reactjs, Vuejs, FastAPI, OpenAI Agents SDK, AgentKit (No Code Agent Builder) , 
 🛠 **Tech Stack:** FastAPI, SQLModel, PostgreSQL, MySQL, Prisma ORM, Python, TypeScript, Next.js, TailwindCSS, Docker, Google Cloud  

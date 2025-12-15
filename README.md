@@ -1,5 +1,5 @@
 # Mustafa Tawab 👋
-![avatar](https://github.com/mustafatawab.png)
+
 
 [![Profile views](https://komarev.com/ghpvc/?username=mustafatawab&color=blue)](https://github.com/mustafatawab)
 

@@ -41,11 +41,6 @@ TypeScript · Python · Next.js · Vue.js · FastAPI · Node.js · OpenAI Agents
 
 Open to work: Yes — contact via email for opportunities.
 
----
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatawab&show_icons=true&theme=tokyonight)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatawab&layout=compact&theme=tokyonight)
 
 ---
 

@@ -92,16 +92,6 @@ The public-facing site for my agency. Includes a contact form backed by a typed 
 - 🏗️ Shipped 20+ production sites using Payload CMS, AWS, and Vercel
 - 🔐 Implemented full auth systems from scratch: JWT, OTP, RBAC, multi-tenancy
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mustafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafatawab&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatawab&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 

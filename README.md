@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mustafa Tawab
-**Full Stack Engineer · AI Integration **
+**Full Stack Engineer · AI Integration**
 
 [![Profile views](https://komarev.com/ghpvc/?username=mustafatawab&color=6366f1&style=flat-square)](https://github.com/mustafatawab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mustafatawab.vercel.app-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://mustafatawab.vercel.app)

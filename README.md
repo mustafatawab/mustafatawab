@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a Full Stack Engineer based in Islamabad, Pakistan, with 2+ years of professional experience building production web applications and AI-integrated systems. I work at **Atlas Solution** as Full Stack Developer with AI Driven Development.
+I'm a Full Stack Engineer based in Islamabad, Pakistan, with 3+ years of professional experience building production web applications and AI-integrated systems. I work at **Atlas Solution** as Full Stack Developer with AI Driven Development.
 
 My focus is on building things that actually ship: scalable APIs, modern frontends, multi-tenant SaaS systems, and intelligent agent-driven workflows. I'm currently deepening my expertise in **DevOps and Cloud Engineering** (AWS, Kubernetes, CI/CD) as my next major direction.
 

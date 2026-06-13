@@ -79,10 +79,10 @@ A multi-tenant pharmacy platform with per-tenant data isolation, role-based acce
 
 ---
 
-### 🏢 Farsight Systems — Agency Website
-> Next.js 14 · Tailwind CSS · TypeScript · Framer Motion · Resend
+### 🏢 TaskFlow
+> Next.js 14 · Tailwind CSS · TypeScript · Framer Motion · Resend · Node.js · Express · Postgres · Docker
 
-The public-facing site for my agency. Includes a contact form backed by a typed API route with input validation, error handling, and a custom HTML email template via Resend.
+A Multi-Tenant Task Management System with per-tenant data isolation, RBAC (Admin , Team Members) , Task CRUD and Memebers CRUD operations
 
 ---
 

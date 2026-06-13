@@ -66,7 +66,7 @@ My focus is on building things that actually ship: scalable APIs, modern fronten
 ## 🚀 Projects
 
 ### 🏫 Maktab One — School Fee Management System
-> Next.js · Node.js/Express · Prisma · PostgreSQL · JWT · BullMQ
+> Next.js · Node.js/Express · Prisma · PostgreSQL · JWT · BullMQ · Typescript · Docker
 
 A production-grade, single-tenant school management system with full auth (JWT access/refresh tokens, OTP device verification, Remember Me), RBAC with dynamic roles, student enrollment, guardian account automation, and fee tracking. Each school gets its own deployed instance.
 

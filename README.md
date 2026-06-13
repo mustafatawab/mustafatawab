@@ -95,12 +95,6 @@ A Multi-Tenant Task Management System with per-tenant data isolation, RBAC (Admi
 
 ---
 
-## 💼 Farsight Systems
-
-I run **[Farsight Systems](https://farsightsystem.com)** — an AI-first digital engineering agency focused on helping startups and growing businesses build scalable web products and intelligent automation. If you're looking for a long-term technical partner, reach out.
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">

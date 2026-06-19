@@ -19,7 +19,7 @@ I'm a Full Stack Engineer based in Islamabad, Pakistan, with 3+ years of profess
 My focus is on building things that actually ship: scalable APIs, modern frontends, multi-tenant SaaS systems, and intelligent agent-driven workflows. I'm currently deepening my expertise in **DevOps and Cloud Engineering** (AWS, Kubernetes, CI/CD) as my current major direction.
 
 
-- 🏗️ Currently building & Testing: **![Maktab One]([https://](https://schoola.maktabone.org/))** — a school fee management system (Next.js + Node.js + Prisma)
+- 🏗️ Currently building & Testing: **[Maktab One]([https://](https://schoola.maktabone.org/))** — a school fee management system (Next.js + Node.js + Prisma)
 - 🌱 Currently learning: AWS, Docker Compose, GitHub Actions, Kubernetes
 - 💼 Open to: full-time roles, freelance projects, and long-term client engagements
 - 📍 Based in: Islamabad, Pakistan

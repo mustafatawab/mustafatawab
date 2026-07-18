@@ -73,9 +73,9 @@ A production-grade, single-tenant school management system with full auth (JWT a
 ---
 
 ### 💊 Pharmacy Management System *(in progress)*
-> Next.js · FastAPI · NeonDB · SQLModel · JWT · Multi-tenancy
+> Electron.js · Node.js · Express.js · Prisma ORM · PostgreSQL · Offline Software · Worked on Multiple Machines using LAN
 
-A multi-tenant pharmacy platform with per-tenant data isolation, role-based access (Super Admin / Pharmacy Admin / Staff), medicine inventory CRUD, and a reusable dependency injection pattern for tenant-scoped authorization.
+A robust, desktop-based offline solution designed for pharmacies to manage inventory, sales, and billing without requiring an active internet connection. Built to operate seamlessly across multiple local machines using a LAN setup, ensuring data synchronization and high availability in low-connectivity environments.
 
 ---
 

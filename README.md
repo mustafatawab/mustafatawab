@@ -163,27 +163,6 @@ Building production SaaS platforms, AI integrations, enterprise dashboards, APIs
 - 🔐 Implemented full auth systems from scratch: JWT, OTP, RBAC, multi-tenancy
 - 📝 Writing a DevOps & AI engineering blog series: [mustafatawab.vercel.app/blogs](https://mustafatawab.vercel.app/blogs)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatawab&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafatawab&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustafatawab&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
